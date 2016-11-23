@@ -20,7 +20,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>http://125.35.5.112:8090/jijian/logo.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -28,7 +28,7 @@
      <key>needs-shine</key>
      <true/>
      <key>url</key>
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>http://125.35.5.112:8090/jijian/logo.png</string>
     </dict>
    </array>
    <key>metadata</key>
